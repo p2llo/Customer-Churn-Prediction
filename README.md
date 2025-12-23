@@ -1,4 +1,4 @@
-# Customer Churn Prediction and Sales Dashboard
+# Customer Churn Prediction 
 
 ## 📊 Project Overview
 
